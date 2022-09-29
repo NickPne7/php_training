@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+label, input{
+    margin: 0.5em 0.9em;
+
+}
+
+#blocco{
+    background-color: beige;
+    display: block;
+    text-align: center;
+    padding: 5em;
+    border: 1px dashed cyan;
+    margin: 5em 15em;
+}
